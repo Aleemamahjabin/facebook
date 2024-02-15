@@ -1,0 +1,39 @@
+nav{
+    background-color: rgb(62, 62, 164);
+}
+
+#brand{
+    width: 1000px;
+}
+
+#remember{
+    margin-left: 178px;
+}
+
+#email{
+    margin-left: 114px;
+}
+
+#div{
+    margin-left: -80px;margin-top: -3px;
+}
+
+#btn{
+    width: 5px;
+}
+
+.fa{
+    color: white;
+}
+#pwd{
+    margin-left: -28px;
+}
+#log{
+    background-color: blue;margin-right: 93px;
+}
+#face{
+    background-color: rgb(233, 237, 242); color: rgb(56, 56, 163);height: 1200px;
+}
+#span{
+    color:grey;
+}
